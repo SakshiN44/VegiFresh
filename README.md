@@ -18,9 +18,12 @@ The code provided is just a small segment of the application. It is for the CUST
 
 # References
 a. Learned Dart Programming and developing App:
-https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q    	
+https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q
+
 https://www.youtube.com/c/SantosEnoque
+
 https://api.flutter.dev/
+
 Various medium articles by Deven Joshi
 
 b. Setting up of Flutter and Firebase on Windows:
