@@ -3,7 +3,7 @@ The idea of this project was to reduce the complexities involved in buying veget
 
 # Introduction
 With the intention to bridge the gap between farmers and consumers through their effortless interaction on a digital marketplace that they can access on their handheld devices.
-To do this, I tried to created an entire digital marketplace for farmers as well as consumers so that they can directly interact with each other and hence save the time and money that would have been involved if they were to use the same services through an intermediary.
+To do this, We tried to created an entire digital marketplace for farmers as well as consumers so that they can directly interact with each other and hence save the time and money that would have been involved if they were to use the same services through an intermediary.
 
 This platform will provides farmers to list the vegetables/fruits that they intend to sell and at the same time, allow consumers to find their required fruits/vegetables.
 
