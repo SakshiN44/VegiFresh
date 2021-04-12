@@ -11,7 +11,7 @@ void main() {
   );
 }
 
-class HomePage extends StatefulWidget {
+class HomePage extends StatefulWidget{
   @override
   _HomePageState createState() => _HomePageState();
 }
